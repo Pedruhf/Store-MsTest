@@ -1,0 +1,12 @@
+/home/pedruhf/wsl-files/dotnet/Store/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/pedruhf/wsl-files/dotnet/Store/Domain/bin/Debug/net6.0/Domain.dll
+/home/pedruhf/wsl-files/dotnet/Store/Domain/bin/Debug/net6.0/Domain.pdb
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/Domain.dll
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/Domain.pdb
+/home/pedruhf/wsl-files/dotnet/Store/Domain/obj/Debug/net6.0/ref/Domain.dll

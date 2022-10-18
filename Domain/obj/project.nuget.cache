@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2koGZvGvKOlqbZsn6+WGlVtShETO8E/A4ss3UKix1SQ6WjUXI8YV+niuKXg3OUWr9tF+ltjLNj6UubrW9FuAug==",
+  "success": true,
+  "projectFilePath": "/home/pedruhf/wsl-files/dotnet/Store/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/pedruhf/.nuget/packages/flunt/1.0.3/flunt.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
