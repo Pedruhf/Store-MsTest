@@ -30,6 +30,7 @@ namespace Store.Domain.Commands {
           .Requires()
           .HasLen(Customer, 11, "Customer", "Cliente invalido")
           .HasLen(ZipCode, 8, "ZipCode", "CEP invalido")
+          .IsGreaterOrEqualsThan(Items.Count(), 1, "Items", "O pedido deve ter pelo menos 1 item")
       );
     }
   }
